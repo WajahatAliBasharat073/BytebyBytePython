@@ -19,3 +19,13 @@ Write a Program to print `Hello, World` in python
 print("Hello, World")
 ```
 If you want to explore print function more follow these resources [Resource 1](https://docs.python.org/3/library/functions.html#print), [Resource 2](https://learnpython.com/blog/python-print-function/).
+
+Write a `Python Program to Add Two Numbers`
+
+**Solution1 (with predefined variables): **
+```
+print("Hello, World")
+```
+If you want to explore print function more follow these resources [Resource 1](https://docs.python.org/3/library/functions.html#print), [Resource 2](https://learnpython.com/blog/python-print-function/).
+
+**Solution2 (with User Input): **
